@@ -1,5 +1,6 @@
 # bitluniHomeAutomation
-WeMos ESP8266 Arduino sketch to control pins and WS2812 led strips.
+WeMos ESP8266 Arduino sketch to control pins and individual adressable led strips.
+EDIT: I integrated the FastLED library into this code. Default led type is WS2811. To change this go to the last lines of the setup function.
 
 This is the sketch to the corresponding tutorial video:
 https://www.youtube.com/watch?v=7Dv70ci-MOw
